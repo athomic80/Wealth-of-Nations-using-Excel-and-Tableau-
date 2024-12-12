@@ -66,6 +66,27 @@ Access the Excel Workbook: The processed dataset can be found in the repository.
 
 ---
 
+## 🤵🏽 **Professional Skills Used**
+
+### 🔍 **Attention to Detail**  
+- Ensured data accuracy during the cleaning, analysis, and visualization stages.  
+- Refined visualizations to make sure they were clear, precise, and easy to interpret.
+
+### 🕒 **Time Management**  
+- Structured the project workflow effectively, balancing tasks like data exploration, visualization creation, and dashboard development in Tableau.  
+- Prioritized tasks to meet project goals within the given timeframe.
+
+### 🧠 **Personal Skills**
+
+#### ✨ **Creativity**  
+- Designed a visually engaging and interactive dashboard in Tableau, aimed at providing clear insights from the **Wealth of Nations** dataset.  
+- Used creative thinking to highlight key economic indicators and trends in a way that is both informative and captivating.
+
+#### 🌟 **Adaptability & Learning**  
+- Learned new Tableau features and visualization techniques to enhance the dashboard's functionality.  
+- Adapted to challenges, such as transforming the data for specific visualizations, to ensure the dashboard met the project’s objectives.
+
+--- 
 
 ## 📝 Reflection
 This project served as an excellent introduction to the world of data visualization, offering valuable hands-on experience with Tableau. It allowed me to explore how to transform raw data into meaningful insights through interactive visuals. Working with the Wealth of Nations dataset helped me understand the power of data storytelling, and I gained a deeper appreciation for how effective visualizations can communicate complex information in a clear and engaging way. Overall, it was a rewarding learning experience that enhanced my data analysis and visualization skills.
