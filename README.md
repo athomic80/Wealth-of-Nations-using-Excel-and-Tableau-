@@ -34,8 +34,6 @@ Welcome to the **Wealth of Nations Analysis**! In this project, I explore the **
 3. **Dashboard Magic** 🧙: All visuals combined into one beautiful, interactive Tableau dashboard ✨.
 ![image](https://github.com/user-attachments/assets/75c5e17f-46ca-4c9e-a738-083c858c0750)
 
-[Link to Tableau Dashboard](https://public.tableau.com/app/profile/alex.thompson1491/viz/WealthofNations_17285739192760/WealthofNations)
-
 ---
 
 ## 📚 Dataset
@@ -57,5 +55,19 @@ This project uses the following tools to bring the data to life:
 - **Microsoft Excel** 💻: For initial data analysis, cleaning, and calculations.
 - **Tableau** 📊: For creating stunning interactive charts and dashboards.
 - **Tableau Public** 🌐: You can also use Tableau Public to view the visualizations if you don’t have Tableau Desktop.
+
+---
+
+## 🚀 How to Explore
+Check out the Tableau Dashboard: 
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/alex.thompson1491/viz/WealthofNations_17285739192760/WealthofNations)
+
+Access the Excel Workbook: The processed dataset can be found in the repository.
+
+---
+
+
+## 📝 Reflection
+This project served as an excellent introduction to the world of data visualization, offering valuable hands-on experience with Tableau. It allowed me to explore how to transform raw data into meaningful insights through interactive visuals. Working with the Wealth of Nations dataset helped me understand the power of data storytelling, and I gained a deeper appreciation for how effective visualizations can communicate complex information in a clear and engaging way. Overall, it was a rewarding learning experience that enhanced my data analysis and visualization skills.
 
 
