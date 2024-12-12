@@ -34,6 +34,7 @@ Welcome to the **Wealth of Nations Analysis**! In this project, I explore the **
 3. **Dashboard Magic** 🧙: All visuals combined into one beautiful, interactive Tableau dashboard ✨.
 ![image](https://github.com/user-attachments/assets/75c5e17f-46ca-4c9e-a738-083c858c0750)
 
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/alex.thompson1491/viz/WealthofNations_17285739192760/WealthofNations)
 
 ---
 
